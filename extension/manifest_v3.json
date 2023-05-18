@@ -3,6 +3,7 @@
     "name": "NoLink",
     "version": "1.0",
     "description": "Extension that blocks clicking on hyperlinks",
+    "homepage_url": "https://github.com/zaphir-code/NoLink",
     "icons": {
         "48": "icons/nolink.png",
         "96": "icons/nolink@2x.png"
